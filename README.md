@@ -1,4 +1,4 @@
-# Prazer usuário, me chamo Maria Eduarda 
+# Prazer usuário, me chamo Maria Eduarda 👋🏽
 
 💻 Analista de Desenvolvimento Júnior  
 🎓 Estudante de Sistemas de Informação — PUC Minas (5º período)
