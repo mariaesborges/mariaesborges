@@ -61,7 +61,7 @@ Minha experiência está concentrada em sistemas corporativos envolvendo Recurso
 
 ---
 
-## Projetos em Destaque
+## Projetos 
 
 ### Doriquinho Gestão
 
@@ -110,16 +110,10 @@ Ferramenta para cálculo e estimativa de materiais utilizados na construção ci
 
 ---
 
-## Estatísticas GitHub
+## GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mariaesborges&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariaesborges&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mariaesborges&theme=tokyo-night)
-
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariaesborges&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
