@@ -8,8 +8,8 @@ Desenvolvimento de sistemas corporativos, automação de processos e soluções 
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-eduarda-borges-142573235)
+[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.eduarda0004@gmail.com)
 
 </div>
 
@@ -117,6 +117,8 @@ Ferramenta para cálculo e estimativa de materiais utilizados na construção ci
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mariaesborges&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariaesborges&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mariaesborges&theme=tokyo-night)
 
 </div>
 
