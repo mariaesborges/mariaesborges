@@ -65,16 +65,28 @@ Minha experiência está concentrada em sistemas corporativos envolvendo Recurso
 
 ### Doriquinho Gestão
 
-Sistema corporativo desenvolvido para centralizar e automatizar processos internos da empresa, integrando os setores de Recursos Humanos, Financeiro, Compras, Fiscal, Logística e Vendas.
+Plataforma corporativa desenvolvida para centralizar, padronizar e automatizar processos internos da empresa, conectando diferentes setores em um único ambiente.
 
 Principais funcionalidades:
 
-- Gestão de colaboradores
-- Controle de exames ocupacionais
-- Cargos e salários
-- Indicadores gerenciais
-- Dashboards operacionais
-- Controle de processos internos
+- Automação de processos internos
+- Fluxos de aprovação entre setores
+- Controle e acompanhamento de solicitações
+- Gestão de tarefas e processos operacionais
+- Sistema de notificações em tempo real
+- Chat interno para comunicação entre equipes
+- Dashboards e indicadores gerenciais
+- Gestão de colaboradores e estrutura organizacional
+- Centralização de informações corporativas
+
+Áreas atendidas:
+
+- Recursos Humanos
+- Financeiro
+- Compras
+- Fiscal
+- Logística
+- Vendas
 
 **Tecnologias:** Node.js, Express, PostgreSQL, React e JavaScript.
 
