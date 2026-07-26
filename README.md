@@ -6,6 +6,11 @@
 
 Desenvolvimento de sistemas corporativos, automação de processos e soluções para gestão empresarial.
 
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
 </div>
 
 ---
@@ -14,7 +19,7 @@ Desenvolvimento de sistemas corporativos, automação de processos e soluções 
 
 Atuo no desenvolvimento e manutenção de aplicações voltadas para otimização de processos internos, integração de dados e suporte às operações de negócio.
 
-Minha experiência está concentrada em sistemas corporativos envolvendo Recursos Humanos, Financeiro, Compras, Fiscal, Logística e Vendas.
+Minha experiência está concentrada em sistemas corporativos envolvendo Recursos Humanos, Financeiro, Compras, Fiscal, Logística e Vendas, participando desde a modelagem de dados até a implementação de funcionalidades e indicadores gerenciais.
 
 ---
 
@@ -56,40 +61,44 @@ Minha experiência está concentrada em sistemas corporativos envolvendo Recurso
 
 ---
 
-## Projetos
+## Projetos em Destaque
 
 ### Doriquinho Gestão
 
-Sistema corporativo para gestão integrada dos setores:
+Sistema corporativo desenvolvido para centralizar e automatizar processos internos da empresa, integrando os setores de Recursos Humanos, Financeiro, Compras, Fiscal, Logística e Vendas.
 
-- Recursos Humanos
-- Financeiro
-- Compras
-- Fiscal
-- Logística
-- Vendas
+Principais funcionalidades:
+
+- Gestão de colaboradores
+- Controle de exames ocupacionais
+- Cargos e salários
+- Indicadores gerenciais
+- Dashboards operacionais
+- Controle de processos internos
+
+**Tecnologias:** Node.js, Express, PostgreSQL, React e JavaScript.
 
 ---
 
 ### Dashboard de Vendas
 
-Painel de acompanhamento comercial e indicadores de desempenho.
+Painel gerencial para acompanhamento de metas, indicadores comerciais e desempenho de vendas.
 
 ---
 
 ### Dashboard Financeiro
 
-Monitoramento de receitas, despesas e indicadores financeiros.
+Sistema para monitoramento de receitas, despesas e indicadores financeiros.
 
 ---
 
 ### Calculadora de Materiais
 
-Ferramenta para cálculo e estimativa de materiais para construção civil.
+Ferramenta para cálculo e estimativa de materiais utilizados na construção civil.
 
 ---
 
-## GitHub
+## Estatísticas GitHub
 
 <div align="center">
 
@@ -98,3 +107,5 @@ Ferramenta para cálculo e estimativa de materiais para construção civil.
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaesborges&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
