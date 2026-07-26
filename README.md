@@ -114,9 +114,9 @@ Ferramenta para cálculo e estimativa de materiais utilizados na construção ci
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariaesborges&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaesborges&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaesborges&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaesborges&layout=compact&theme=tokyonight"/>
 
 </div>
 
